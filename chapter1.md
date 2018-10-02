@@ -3,6 +3,45 @@ title: 'Template Chapter 1'
 description: 'This is a template chapter.'
 ---
 
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 3e6c8e6a47
+xp: 100
+```
+
+do stuff
+
+`@instructions`
+adfadgad
+
+`@hint`
+adkfmnadlf
+
+`@pre_exercise_code`
+```{r}
+rm(list=ls())
+```
+
+`@sample_code`
+```{r}
+x=
+```
+
+`@solution`
+```{r}
+x=1
+```
+
+`@sct`
+```{r}
+ex() %>% check_object("x") %>% check_equal()
+success_msg("yay julia!!")
+```
+
+---
+
 ## Chapter 1.1 - Coding Exercises
 
 ```yaml
