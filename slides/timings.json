@@ -1,3 +1,136 @@
 {
-  "slides/chapter_1_7ac7ef24515d5c42912be0626e1db076.md": {}
+  "slides/chapter_1_7ac7ef24515d5c42912be0626e1db076.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.04067699207088922,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.07456538477124447,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.11536867528467802,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.1356625386662344,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.16952447758371492,
+      "state": {
+        "indexh": 5,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2035698990963245,
+      "state": {
+        "indexh": 6,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2373136469857222,
+      "state": {
+        "indexh": 7,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.27121948643135984,
+      "state": {
+        "indexh": 8,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2983336899407005,
+      "state": {
+        "indexh": 9,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.33895293593224457,
+      "state": {
+        "indexh": 10,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.3661459361618781,
+      "state": {
+        "indexh": 11,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.3932106090691737,
+      "state": {
+        "indexh": 12,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.42710857073388175,
+      "state": {
+        "indexh": 13,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.4609485620888546,
+      "state": {
+        "indexh": 14,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.4948037470789263,
+      "state": {
+        "indexh": 15,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5218667342059408,
+      "state": {
+        "indexh": 16,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5624443300779403,
+      "state": {
+        "indexh": 17
+      }
+    }
+  ]
 }
