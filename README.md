@@ -44,7 +44,9 @@ This part of the 'Course Spec' process is designed to help guide you through cou
 
 >
 >- R (and/or Rstudio)
+>- Github
 >- no packages currently
+
 
 
 ### 4. What terms or jargon will you define?
