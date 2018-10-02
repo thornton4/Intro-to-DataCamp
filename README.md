@@ -17,13 +17,14 @@ As part of the 'Course Spec' process, you will need to complete the following ta
 
 This part of the 'Course Spec' process is designed to help guide you through course design by having you think through several key questions. Please make sure to delete the examples provided here for you.
 
-### 1. What problem(s) will students learn how to solve? (minimum of 5 problems)
+### 1. What problem(s) will students learn how to solve?
 
-- [ ] Write a list of ideas for problems that the students will encounter in the course.
-> From a course on fraud detection:
 >
->- How to identify and predict fraudulent transactions
->- How to effectively work with highly imbalanced data
+>- Learn the basics of how to effectively author a DataCamp course
+>- Identify and fix common mistakes that inhibit a learners ability to learn
+>- Practice the creation of coding exercises in order to develop learners coding abilities
+>- Practice teh creating of multiple choice exercises in order to help soldify the conceptual aspects
+>- Work on breaking down complex sections of code into smaller bits that can be sequentially combined to achieve the same result
 
 
 ### 2. What are the learning objectives of the course?
@@ -41,23 +42,9 @@ This part of the 'Course Spec' process is designed to help guide you through cou
 
 ### 3. What technologies, packages, or functions will students use? Please be exhaustive.
 
-- [ ] Write a list of ideas for technologies that you want to use in the course. Include things like R/Python packages, SQL modules, or Google Sheets add-ons. If there are any important functions, methods, or commands that you want to teach, you can mention them here.
-
-- [ ] Add the packages students will use to the requirements.r file of this repository.
-
->Example from a course on keras. This example has only a few Python packages and goes into depth on the functions that will be used.
 >
->- keras, pandas, sklearn
->- Keras functions:
->- Dense
->- Concatenate, Subtract, Multiply (operate on two layers)
->- l2
->- Embedding
->- Flatten
->- keras.preprocessing.text.text_to_word_sequence
->- keras.preprocessing.sequence.pad_sequences
->- GRU
->- Bidirectional
+>- R (and/or Rstudio)
+>- no packages currently
 
 
 ### 4. What terms or jargon will you define?
