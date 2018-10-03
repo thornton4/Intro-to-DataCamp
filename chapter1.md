@@ -52,3 +52,16 @@ x=1
 ex() %>% check_object("x") %>% check_equal()
 success_msg("yay julia!!")
 ```
+
+---
+
+## Fake News
+
+```yaml
+type: VideoExercise
+key: c3d4ed3f6f
+xp: 50
+```
+
+`@projector_key`
+f9cccbfdc35a3bcca4bb08c32d13a107

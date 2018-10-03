@@ -133,5 +133,27 @@
         "indexf": -1
       }
     }
+  ],
+  "slides/chapter_1_f9cccbfdc35a3bcca4bb08c32d13a107.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.4977202091015925,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.7346136456349366,
+      "state": {
+        "indexh": 1
+      }
+    }
   ]
 }
